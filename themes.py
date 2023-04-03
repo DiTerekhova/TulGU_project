@@ -58,3 +58,18 @@ dark_theme = {
             'textbox_bg': '#3c3f41',
             'textbox_fg': '#fbfbfd'
         }
+
+dark_theme = {
+            'window_bg': '#3c3f41',
+            'frame_bg': '#2b2b2b',
+            'label_bg': '#2b2b2b',
+            'label_fg': '#6d6d6d',
+            'button_bg': '#4b6eaf',
+            'game_button_bg': '#313335',
+            'game_button_fg': '#fbfbfd',
+            'game_label_bg': '#3c3f41',
+            'entry_bg': '#3c3f41',
+            'entry_fg': '#fbfbfd',
+            'textbox_bg': '#3c3f41',
+            'textbox_fg': '#fbfbfd'
+        }
