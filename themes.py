@@ -58,3 +58,18 @@ dark_theme = {
             'textbox_bg': '#3c3f41',
             'textbox_fg': '#fbfbfd'
         }
+
+toxic_theme = {
+            'window_bg': '#3CE500',
+            'frame_bg': '#C9FF00',
+            'label_bg': '#C9FF00',
+            'label_fg': 'black',
+            'button_bg': '#FF00E0',
+            'game_button_bg': '#B22512',
+            'game_button_fg': '#6d6d6d',
+            'game_label_bg': '#3CE500',
+            'entry_bg': '#ffffff',
+            'entry_fg': '#000000',
+            'textbox_bg': '#ffffff',
+            'textbox_fg': '#000000'
+        }
